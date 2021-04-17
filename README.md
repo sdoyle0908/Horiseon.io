@@ -13,3 +13,11 @@ Screenshots below show the refactored page uploaded in Git Page:
 3. hero image
 
 ![Screenshot1](./assets/images/screen-shot-1.png)
+
+- Screenshot 2
+
+1. Displays the main section which I have broken down into specific article section for readability well as the benefits section
+2. Both Sections have had their CSS updated and condensed
+3. Img tags were given alt attributes.
+
+![Screenshot2](./assets/images/screen-shot-2.png)
