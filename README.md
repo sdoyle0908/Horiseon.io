@@ -6,15 +6,15 @@ For this assignment we were provided starter code in which we had to refactor to
 
 Screenshots below show the refactored page uploaded in Git Page:
 
-- Screenshot 1
+### Screenshot 1
 
-1. Displaying the header
-2. Navigation which has been updated and is now functional
+1. Displays the header in which div tag was updated for semantic purposes
+2. Navigation tag updated with achor tags that are all functional
 3. hero image
 
 ![Screenshot1](./assets/images/screen-shot-1.png)
 
-- Screenshot 2
+### Screenshot 2
 
 1. Displays the main section which I have broken down into specific article section for readability well as the benefits section
 2. Both Sections have had their CSS updated and condensed
