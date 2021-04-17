@@ -21,3 +21,7 @@ Screenshots below show the refactored page uploaded in Git Page:
 3. Img tags were given alt attributes.
 
 ![Screenshot2](./assets/images/screen-shot-2.png)
+
+## URL of the GitHub repository
+
+[link](https://github.com/sdoyle0908/Horiseon.io)
