@@ -24,5 +24,5 @@ Screenshots below show the refactored page uploaded in Git Page:
 
 ## URL's
 
-[URL of the GitHub repository](https://github.com/sdoyle0908/Horiseon.io)
-[URL of URL of the deployed application](https://sdoyle0908.github.io/Horiseon.io/)
+- [URL of the GitHub repository](https://github.com/sdoyle0908/Horiseon.io)
+- [URL of deployed application](https://sdoyle0908.github.io/Horiseon.io/)
