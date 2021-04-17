@@ -4,10 +4,12 @@
   margin: 0;
 }
 
+/* apply style to body */
 body {
   background-color: #d9dcd6;
 }
 
+/* applies style to .header */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -16,6 +18,7 @@ body {
   color: #ffffff;
 }
 
+/* applies style to .header h1 */
 .header h1 {
   display: inline-block;
   font-size: 48px;
@@ -25,6 +28,7 @@ body {
   color: #d9dcd6;
 }
 
+/* applies style to header nav*/
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -51,6 +55,7 @@ p {
   font-size: 16px;
 }
 
+/* applies style to hero */
 .hero {
   height: 800px;
   width: 100%;
@@ -60,22 +65,14 @@ p {
   background-position: center;
 }
 
-.float-left {
-  float: left;
-  margin-right: 25px;
-}
-
-.float-right {
-  float: right;
-  margin-left: 25px;
-}
-
+/* apply styling for content section */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
+/* apply style for article element */
 article {
   margin-bottom: 20px;
   padding: 50px;
@@ -89,11 +86,24 @@ article img {
   max-height: 200px;
 }
 
+/* applies style to display float left or right for img in articles */
+.float-left {
+  float: left;
+  margin-right: 25px;
+}
+
+.float-right {
+  float: right;
+  margin-left: 25px;
+}
+
+/* applies style to article h2 */
 article h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
+/* applies style to benefits section */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -105,6 +115,7 @@ article h2 {
   background-color: #2589bd;
 }
 
+/* applies style to benefit elements */
 .benefit-info {
   margin-bottom: 32px;
   color: #ffffff;
@@ -121,6 +132,7 @@ article h2 {
   max-width: 150px;
 }
 
+/* applies style to footer */
 .footer {
   padding: 30px;
   clear: both;
